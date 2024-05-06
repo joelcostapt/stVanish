@@ -1,0 +1,11 @@
+name: stVanish
+version: '${project.version}'
+main: pt.joelcosta.stvanish.Main
+author: start.dev
+commands:
+  vanish:
+    permission: stvanish.use
+    aliases:
+      - v
+depend:
+  - ActionBarAPI

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="stVanish">
+    <output-path>$PROJECT_DIR$/out/artifacts/stVanish</output-path>
+    <root id="archive" name="stVanish.jar">
+      <element id="module-output" name="stVanish" />
+    </root>
+  </artifact>
+</component>

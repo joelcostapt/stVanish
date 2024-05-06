@@ -1,0 +1,6 @@
+Permission: stvanish.use
+
+VanishMessages:
+  Join: '&eEntraste no modo invisível.'
+  Leave: '&eSaiste do modo invisível.'
+  NoPermission: '&cNão tens permissão para usar este comando.'
